@@ -1,3 +1,11 @@
+____ ____  ____             _     
+ | __ )___ \|  _ \  __ _  ___| |__  
+ |  _ \ __) | | | |/ _` |/ __| '_ \ 
+ | |_) / __/| |_| | (_| | (__| | | |
+ |____/_____|____/ \__,_|\___|_| |_|
+                                    
+  B3 Portfolio Tracker - Terminal UI
+
 # 📈 B3Dash - Terminal Portfolio Tracker
 
 Terminal UI Dashboard for monitoring stock market assets.
